@@ -106,7 +106,6 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## 🧑‍💻 Autor
 
-- **Seu Nome** – *Desenvolvedor Front-end*
 - YouTube: [Alan Silva](https://www.youtube.com/@AlanSilva-zg6ui)
 - Coursera: [HTML e CSS em profundidade](https://www.coursera.org/learn/html-and-css-in-depth)
 
