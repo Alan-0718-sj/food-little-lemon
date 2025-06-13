@@ -51,7 +51,7 @@ Para visualizar o projeto localmente, basta ter um navegador moderno (Chrome, Fi
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/little-lemon.git
+   git clone https://github.com/Alan-0718-sj/food-little-lemon.git
    ```
 2. Entre na pasta do projeto:
    ```bash
